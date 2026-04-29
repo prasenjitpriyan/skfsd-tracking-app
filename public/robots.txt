@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /offices
+Disallow: /delivery
+Disallow: /targets
+Disallow: /admin
+
+Sitemap: https://skfsd.online/sitemap.xml
